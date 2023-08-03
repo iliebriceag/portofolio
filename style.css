@@ -217,6 +217,7 @@ body {
   
   .openbtn {
     margin-right: 10%;
+    margin-bottom: 10px;
     float: right;
     font-size: 25px;
     cursor: pointer;
